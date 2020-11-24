@@ -20,11 +20,11 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 #theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/dark.css"
-locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale: fr-CH
+title: "CtfByJD"
+description: "documentation et write up"
+baseurl: "/CtfByJD"
+url: "https://jeje720.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -59,7 +59,7 @@ feed:
 # paginate_path: /page:num/
 
 # Search
-search_full_content: false # can have performance implications for large sites
+search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"
