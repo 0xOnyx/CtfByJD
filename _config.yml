@@ -94,8 +94,8 @@ defaults:
       share: true
 
 # Site Author
-author: jeremy
-  name:
+author: 
+  name:jeremy
   picture:
   email:
   twitter:
